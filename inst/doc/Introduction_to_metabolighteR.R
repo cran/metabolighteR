@@ -42,7 +42,7 @@ StudyInfoTable
 
 ## ---- file_list, echo=TRUE, eval=TRUE-----------------------------------------
 
-studyFileList <- get_study_files(studies[1])
+studyFileList <- get_study_files('MTBLS264')
 
 studyFileList
 

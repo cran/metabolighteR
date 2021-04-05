@@ -1,6 +1,6 @@
-6c4f91090f5be8c6533c81be82ee6f53 *DESCRIPTION
+e57d2a22b6da5ff53b48f00ba8d6e5fc *DESCRIPTION
 3bae44f978b1d9aa9a52b4aad4b22532 *NAMESPACE
-aa9e6e91bbdb440da09dfd7a44a16c0f *NEWS.md
+287604092bbd7dc74c468802cec985a5 *NEWS.md
 75ea3d9077331b3fe781a292b3ae4fc1 *R/download_study_file.R
 2d6faa55520b6b78003459f2015b3584 *R/get_isa_investigation.R
 6de624e96929b84853e63af63eb220b8 *R/get_private_studies.R
@@ -22,12 +22,12 @@ fbbb739a02e22d1545b6f644cb41291f *R/get_study_samples.R
 5308d9b1f7923b48b323ba625bb088a7 *R/metabolighteR.R
 f4e39cc4873e4749b63551bf66253b98 *R/mtbls_key.R
 da9809c94b104c0544ea56023fc65b3d *R/zzz.R
-b49cddebe17fc2595b700b3f34e6b8be *build/vignette.rds
+dea2d965a0a49f0cda48b3c1903c767f *build/vignette.rds
 c2a2ecaca250cc2a48dd7577a55e8b71 *inst/dev-test.R
-8ff879b9ba435a3c729f0adb82a7a545 *inst/doc/Introduction_to_metabolighteR.R
-f548052870a25f338fc35ff94c7a4db7 *inst/doc/Introduction_to_metabolighteR.Rmd
-f188f0f4def8fbb52a16a45d43ffe86c *inst/doc/Introduction_to_metabolighteR.html
-4b17262bf7114e558d2d2860a9ada5c7 *inst/metabolighteR-manual.pdf
+76d1771756346cc1c272b6df53686654 *inst/doc/Introduction_to_metabolighteR.R
+38f32e3b2df586c164ba68f494877a7d *inst/doc/Introduction_to_metabolighteR.Rmd
+7ec1964b7996b130ef922da2d7fe5437 *inst/doc/Introduction_to_metabolighteR.html
+8d55e5b00f0d3982b133bc1cdcd1a941 *inst/metabolighteR_0.1.2.pdf
 5af10f65b759649ed898ab8d8d910a66 *man/download_study_file.Rd
 0d109bfe01597428145b903a5449ed29 *man/get_isa_investigation.Rd
 5bcdf416848144d3ce9e83fd7b465618 *man/get_private_studies.Rd
@@ -49,4 +49,4 @@ c07dea1358aef349216210e74717f589 *man/mtbls_key.Rd
 8ad4cf4d16fbd028b964a1d1a311411f *man/protocols_annotation.Rd
 9ac4d3cd92eb8f7ac115b1866d4eb82e *tests/testthat.R
 80af79299206a55ccf2c12a61e40ab28 *tests/testthat/test-methods.R
-f548052870a25f338fc35ff94c7a4db7 *vignettes/Introduction_to_metabolighteR.Rmd
+38f32e3b2df586c164ba68f494877a7d *vignettes/Introduction_to_metabolighteR.Rmd
